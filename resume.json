@@ -1,0 +1,59 @@
+{
+	"basics": {
+		"name": "Harmandeep Singh",
+		"label": "Student",
+		"picture": "https://hosting.photobucket.com/images/i/harman1107/circle-cropped.png?width=1920&height=1080&fit=bounds",
+		"email": "2020KUEC2001@iiitkota.ac.in",
+		"phone": "9599750775",
+		"website": "https://nifty-visvesvaraya-ede83b.netlify.app/",
+		"summary": "I am working hard everyday to become a great engineer and will take on any challenge on my path.",
+		"location": {
+			"address": "Flat 2A1, Sigma Apartments, Sector Beta-1",
+			"postalCode": "201308",
+			"city": "Greater Noida",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/<handle>"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://twitter.com/HARMAND32510900<handle>/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Harmandeep Singh",
+				"url": "https://www.linkedin.com/in/harmandeep-singh-21a405200<username>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "alec._.harman",
+				"url": "https://www.instagram.com/alec._.harman/<handle>"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-02-12 //Date",
+		"endDate": "",
+		"gpa": "8.32",
+		"courses": [
+			"Electronics And Communication Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Bootstrap"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}]
+}
